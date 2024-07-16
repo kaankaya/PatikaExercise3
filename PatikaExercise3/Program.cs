@@ -6,6 +6,11 @@ namespace Patika
     {
         static void Main(string[] args) 
         {
+            /*
+             Switch-case yapısını kullanmak, bu tür bir uygulamayı hayata geçirmek için daha doğru bir yöntem. Bunun nedeni, switch-case yapısının okunabilirliğinin daha kolay olmasıdır.
+             Ek olarak birçok koşulun kontrol edilmesi gerektiğinde if-else yapıları karmaşık ve okunması zor olabilirken, 
+            switch-case yapısı daha anlaşılır bir yapıda.
+             */
             //Meyve fiyat değerleri tanımlama
             int elma = 2;
             int armut = 3;
